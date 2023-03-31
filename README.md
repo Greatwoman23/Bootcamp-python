@@ -27,7 +27,7 @@ is shown.
 The third task works when when the third file and the word python are placed side by side and ran together, a variable string is shown.
 The fourth task works when python and the name of the fourth file is ran together,bringing about a multiple varaible.
 The fifth task works when the word python and the fifth file name is ran together,the results shows incrementation and decrementation.
-The sixth file works when python is placed with the name of the sixth file and ran together,a what if statement shows.
+The sixth task works when python is placed with the name of the sixth file and ran together,a what if statement shows.
 ./my_project argument1 argument2
 ```
 
